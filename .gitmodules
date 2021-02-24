@@ -1,0 +1,3 @@
+[submodule "data/paramecium"]
+	path = data/paramecium
+	url = https://github.com/jfgout/paramecium
